@@ -5,6 +5,7 @@ In these times, we need extract register calls's adressess. This tool make this 
 
  You can use this script with IDA. Go File->Script File and select the script file or u can use 
  ALT+F7 shortcut.
+ 
 [TR]
  Zararlı yazılımları analiz ederken bazen API obfuscation methodlarıyla karşılaşabiliriz. Bu 
  gibi zamanlarda register üzerinden çağırım yapılan adreslere ihtiyacımız oluyor. Bu araç, bu 
